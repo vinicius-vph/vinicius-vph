@@ -13,6 +13,7 @@
 
 ##### Perfil do linkedin
 [Linkedin](https://www.linkedin.com/in/vinicius-s-00890930)
+[Twitter](@v_silva_santos)
 
 
 
