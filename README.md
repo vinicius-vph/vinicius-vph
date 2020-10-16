@@ -11,7 +11,7 @@
 
 ###### 👍📊📉📈 Finanças pessoais e investimentos são também assunto de meu interesse 
 
-##### Perfil do linkedin
+##### Perfis nas redes sociais
 [Linkedin](https://www.linkedin.com/in/vinicius-s-00890930)
 
 [Twitter](https://twitter.com/v_silva_santos)
