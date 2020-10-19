@@ -1,4 +1,4 @@
-# Vinicius Santos ⚡
+# Vinicius Santos 
 
 #### Nascido e criado no Rio de Janeiro. 
  Estou migrando da área de automação industrial para o desenvolvimento web.  
