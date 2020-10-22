@@ -1,7 +1,7 @@
 # Vinicius Santos 
 
 #### Nascido e criado no Rio de Janeiro. 
- Estou migrando da área de automação industrial para o desenvolvimento web.  
+ Estou migrando da área de Engenharia para o desenvolvimento web.  
 
 - 💻 Estudando HTML/CSS/JAVASCRIPT
 ###### Tenho por hobbie 
