@@ -3,7 +3,9 @@
 #### Nascido e criado no Rio de Janeiro. 
  Estou migrando da área de Engenharia para o desenvolvimento web.  
 
-- 💻 Estudando HTML/CSS/JAVASCRIPT
+- 💻 Estudando NodeJS/React JS/React Native no GoStack 14 da *Rocketseat*
+
+
 ###### Tenho por hobbie 
 
 - 🎸 tocar instrumentos musicais
