@@ -2,9 +2,9 @@
 ### 💻 Dev. Beginner 🚀
  Nascido e criado no Rio de Janeiro. 
  #
- Estou iniciando na área de desenvolvimento web/mobile .
+ Estou iniciando na área de desenvolvimento web/mobile
  
- com foco na stack JS(JavaScript, TypeScript,React JS, React Native, Node JS).  
+ com foco na Stack JS(JavaScript, TypeScript,React JS, React Native, Node JS).  
 
 - 💻 Atualmente estou Estudando NodeJS/React JS/React Native no GoStack 14 da *Rocketseat*
 
