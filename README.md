@@ -1,12 +1,27 @@
 # Vinicius Santos 
-### 💻 Dev. Beginner 🚀
+## 💻 Dev. Beginner 🚀
  Nascido e criado no Rio de Janeiro. 
  #
  Estou iniciando na área de desenvolvimento web/mobile
  
- com foco na Stack JS(JavaScript, TypeScript,React JS, React Native, Node JS).  
+ com foco na Stack JS (JavaScript, TypeScript,React JS, React Native, Node JS).  
 
-- 💻 Atualmente estou Estudando NodeJS/React JS/React Native no GoStack 14 da *Rocketseat*
+- 💻 Atualmente estou fazendo o Bootcamp no GoStack 14 da *Rocketseat*
+
+### 🚀 Tecnologias e conceitos que estou aprendendo e praticando
+#
+- NodeJS
+- React JS
+- React Native
+- REST APIs
+- React Hooks
+- CSS3 Flexbox
+- Responsive Layout
+- TypeScript
+- S.O.L.I.D
+- GitHub
+- Docker
+- Postgres 
 
 
 ###### Tenho por hobbie 
