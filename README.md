@@ -7,7 +7,7 @@
  com foco na Stack JS (JavaScript, TypeScript,React JS, React Native, Node JS).  
 
 - 💻 Atualmente estou fazendo o Bootcamp no GoStack 14 da *Rocketseat*
-
+<br><br><br>
 
 
 ### 🚀 Tecnologias e conceitos que estou aprendendo e praticando
