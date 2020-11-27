@@ -1,5 +1,4 @@
-<h2> Vinicius Santos </h2>
-<h3> Hello welcome to my profile!! </h3>
+<h2> Hello welcome to my profile, i'm Vinicius Santos! </h2>
 <hr>
 
 <h4> About me: </h4> 
@@ -7,6 +6,7 @@
 <p> Developer full stack student in <em>Rocketseat</em> 🎓 🚀</p> 
 <p>I love technologies, i like help other peoples, and never stop learning... <p/>
 
+<p>
 <a href="www.linkedin.com/in/vinicius-s-santos/">
   <img align="left" alt="Vinicius Santos LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -14,7 +14,8 @@
 <a href="https://twitter.com/v_silva_santos">
   <img align="left" alt="Vinicius Santos Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
+<p/>
+</br>
 <h5> 💻 I’m currently learning</h5>
 <p>JavaScript, NodeJS, React JS, React Native, TypeScript, REST API's, React Hooks, CSS3 Flexbox, Responsive Layout, S.O.L.I.D, GitHub, Docker, Postgres</p>
 
