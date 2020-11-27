@@ -1,4 +1,5 @@
-<h2> Hello welcome to my profile, i'm Vinicius Santos! </h2>
+### Hello welcome to my profile, i'm Vinicius Santos!
+
 <hr>
 
 <h4> About me: </h4> 
