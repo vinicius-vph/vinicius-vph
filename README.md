@@ -1,67 +1,32 @@
-# Vinicius Santos 
-## 💻 Dev. Beginner 🚀
- Nascido e criado no Rio de Janeiro. 
- 
- Estou iniciando na área de desenvolvimento web/mobile
- 
- com foco na Stack JS (JavaScript, TypeScript,React JS, React Native, Node JS).  
+<h2> Vinicius Santos </h2>
+<h3> Hello welcome to my profile!! </h3>
+<hr>
 
-- 💻 Atualmente estou fazendo o Bootcamp no GoStack 14 da *Rocketseat*
-<br><br><br>
+<h4> About me: </h4> 
+<p> Born in Rio de Janeiro-BR <p> 
+<p> Developer full stack student in <em>Rocketseat</em> 🎓 🚀</p> 
+<p>I love technologies, i like help other peoples, and never stop learning... <p/>
 
+<a href="www.linkedin.com/in/vinicius-s-santos/">
+  <img align="left" alt="Vinicius Santos LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-### 🚀 Tecnologias e conceitos que estou aprendendo e praticando
-#
-- NodeJS
-- React JS
-- React Native
-- REST APIs
-- React Hooks
-- CSS3 Flexbox
-- Responsive Layout
-- TypeScript
-- S.O.L.I.D
-- GitHub
-- Docker
-- Postgres 
+<a href="https://twitter.com/v_silva_santos">
+  <img align="left" alt="Vinicius Santos Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 
+<h5> 💻 I’m currently learning</h5>
+<p>JavaScript, NodeJS, React JS, React Native, TypeScript, REST API's, React Hooks, CSS3 Flexbox, Responsive Layout, S.O.L.I.D, GitHub, Docker, Postgres</p>
 
-###### Tenho por hobbie 
+###### My hobbies 
 
-- 🎸 tocar instrumentos musicais
-- 🏍️ andar e viajar de moto
+- 🎸 Play guitar
+- 🏍️ Drive Motorcycles
+- 📊 Personal Finances
+- 📉📈 Trades in equities
 
-###### 👍📊📉📈 Finanças pessoais e investimentos são também assunto de meu interesse 
-
-##### Perfis nas redes sociais
-[Linkedin](https://www.linkedin.com/in/vinicius-s-00890930)
-
-[Twitter](https://twitter.com/v_silva_santos)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[![Vinicius's github stats](https://github-readme-stats.vercel.app/api?username=vinicius-vph&show_icons=true&theme=dark )](https://github.com/vinicius-vph/github-readme-stats)
+</br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-vph&layout=compact&theme=dark)](https://github.com/vinicius-vph/github-readme-stats)
 
 <!--
 **vinicius-vph/vinicius-vph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
