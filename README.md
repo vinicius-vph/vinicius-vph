@@ -8,7 +8,7 @@
 <p>I love technologies, i like help other peoples, and never stop learning... <p/>
 
 <p>
-<a href="www.linkedin.com/in/vinicius-s-santos/">
+<a href="https://www.linkedin.com/in/vinicius-s-santos/">
   <img align="left" alt="Vinicius Santos LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
