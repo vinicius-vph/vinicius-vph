@@ -33,7 +33,6 @@
 [![Vinicius's github stats](https://github-readme-stats.vercel.app/api?username=vinicius-vph&show_icons=true&theme=dark )](https://github.com/vinicius-vph/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-vph&layout=compact&theme=dark)](https://github.com/vinicius-vph/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinicius-vph&show_icons=true&theme=vue-dark&repo=python)](https://github.com/vinicius-vph/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinicius-vph&show_icons=true&theme=vision-friendly-dark&repo=gobarber-frontend)](https://github.com/vinicius-vph/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinicius-vph&show_icons=true&theme=vision-friendly-dark&repo=gobarber-backend)](https://github.com/vinicius-vph/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinicius-vph&show_icons=true&theme=vision-friendly-dark&repo=gobarber-mobile)](https://github.com/vinicius-vph/github-readme-stats)
