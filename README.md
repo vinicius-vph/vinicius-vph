@@ -17,11 +17,13 @@
 </a>
 <p/>
 </br>
-<h5> 💻 I’m currently learning and using</h5>
-<p>JavaScript, NodeJS, React JS, React Native, TypeScript, REST API's, React Hooks, CSS3 Flexbox, Responsive Layout, S.O.L.I.D, GitHub, Docker, Postgres</p>
-
-<h5>🙋‍♂️Are on my waiting list👨‍💻</h5>
-<p>Python, Kotlin, Java, Ruby, Scrum</p>
+<h5> 💻 I am currently studying and creating applications, with the following technologies</h5>
+<p>Front-End => HTML, CSS, Javascript/Vanilla, Typescript, ReactJS</p>
+<p>Back-End => Node JS, Kotlin, Ruby</p>
+<p>Mobile => React Native, Kotlin</p>
+</br>
+<h5>Other areas and technologies that I have a knowledge base</h5>
+<p>Linux, Python 3, Git, TDD, DDD, REST API's, Docker e PostgresSQL. </p>
 
 ###### My hobbies 
 
@@ -44,17 +46,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinicius-vph&show_icons=true&theme=radical&repo=wallet-app-back-end)](https://github.com/vinicius-vph/wallet-app-back-end)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinicius-vph&show_icons=true&theme=maroongold&repo=go-restaurant-web)](https://github.com/vinicius-vph/go-restaurant-web)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinicius-vph&show_icons=true&theme=maroongold&repo=go-restaurant-mobile)](https://github.com/vinicius-vph/go-restaurant-mobile)
-<!--
-**vinicius-vph/vinicius-vph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
