@@ -25,7 +25,8 @@
 <h5>Other areas and technologies that I have a knowledge base</h5>
 <p>Linux, Python 3, Git, TDD, DDD, REST API's, Docker e PostgresSQL. </p>
 </br>
-###### My hobbies 
+
+### My hobbies 
 
 - 🎸 Play guitar
 - 🏍️ Drive Motorcycles
