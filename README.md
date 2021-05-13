@@ -19,8 +19,8 @@
 </br>
 <h5> 💻 I am currently studying and creating applications, with the following technologies</h5>
 <p>Front-End => HTML, CSS, Javascript/Vanilla, Typescript, ReactJS</p>
-<p>Back-End => Node JS, Kotlin, Ruby</p>
-<p>Mobile => React Native, Kotlin</p>
+<p>Back-End => Node JS, Ruby on Rails, Ruby</p>
+<p>Mobile => React Native</p>
 </br>
 <h5>Other areas and technologies that I have a knowledge base</h5>
 <p>Linux, Python 3, Git, TDD, DDD, REST API's, Docker e PostgresSQL. </p>
