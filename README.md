@@ -1,37 +1,36 @@
 ### Hello welcome to my profile, i'm Vinicius Santos!
 
-<hr>
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vinicius-s-santos/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Vinicius Santos Linkedin" />
+  </a>
+
+  <a href="https://twitter.com/v_silva_santos">
+    <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter" alt="Vinicius Santos Twitter" />
+  </a>
+<p/>
+
+<br>
 
 <h4> About me: </h4> 
-<p> I live in Rio de Janeiro-BR <p> 
 <p> Developer web and mobile 🚀</p> 
 <p>I love technologies, i like help other peoples, and never stop learning... <p/>
+<p>Subjects that interest me: 🤖 Technology, 🎸 Electric guitar, 🏍️ Drive Motorcycles, 📊 Personal Finances, 📉📈 Trades in equities <p/>
 
-<p>
-<a href="https://www.linkedin.com/in/vinicius-s-santos/">
-  <img align="left" alt="Vinicius Santos LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://twitter.com/v_silva_santos">
-  <img align="left" alt="Vinicius Santos Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<p/>
 </br>
+
 <h5> 💻 I am currently studying and creating applications, with the following technologies</h5>
-<p>Front-End => HTML, CSS, Javascript/Vanilla, Typescript, ReactJS</p>
-<p>Back-End => Node JS, Ruby on Rails, Ruby</p>
-<p>Mobile => React Native</p>
-</br>
-<h5>Other areas and technologies that I have a knowledge base</h5>
-<p>Linux, Python 3, Git, TDD, DDD, REST API's, Docker e PostgresSQL. </p>
+<p>Front-End => HTML, CSS, Javascript, Typescript, ReactJS</p>
+<p>Back-End => Node JS, Typescript, Ruby on Rails, Ruby</p>
+<p>Mobile => React Native, Typescript</p>
+
 </br>
 
-### My hobbies 
-
-- 🎸 Play guitar
-- 🏍️ Drive Motorcycles
-- 📊 Personal Finances
-- 📉📈 Trades in equities
+<h5>Other concepts and technologies that I have a knowledge base</h5>
+<p>Linux, Python 3, Git, TDD, DDD, REST API's, Docker e PostgresSQL.</p>
+</br>
 
 [![Vinicius's github stats](https://github-readme-stats.vercel.app/api?username=vinicius-vph&show_icons=true&theme=dark )](https://github.com/vinicius-vph/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-vph&layout=compact&theme=dark)](https://github.com/vinicius-vph/github-readme-stats)
