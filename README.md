@@ -1,4 +1,4 @@
-### Hello welcome to my profile, i'm Vinicius Santos!
+<h3 align="center">Hello welcome to my profile, i'm Vinicius Santos!</h3>
 
 <br>
 
