@@ -15,7 +15,7 @@
 <br>
 
 <h4> About me: </h4> 
-<p> Developer web and mobile 🚀</p> 
+<p> Developer Full Stack 🚀</p> 
 <p>I love technologies, i like help other peoples, and never stop learning... <p/>
 <p>Subjects that interest me: 🤖 Technology, 🎸 Electric guitar, 🏍️ Drive Motorcycles, 📊 Personal Finances, 📉📈 Trades in equities <p/>
 
@@ -24,7 +24,7 @@
 <h5> 💻 I am currently studying and creating applications, with the following technologies</h5>
 <p>Front-End => HTML, CSS, Javascript, Typescript, ReactJS</p>
 <p>Back-End => Node JS, Typescript, Ruby on Rails, Ruby</p>
-<p>Mobile => React Native, Typescript</p>
+<p>Mobile => React Native</p>
 
 </br>
 
